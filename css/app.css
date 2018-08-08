@@ -1,0 +1,30 @@
+img {
+    height: 200px;
+}
+
+p {
+    background-color: mediumpurple;
+    width: 8em;
+}
+
+.container {
+    width: 275px;
+}
+
+.container input {
+    width: 100%;
+    
+    
+}
+
+button {
+    cursor: pointer;
+    
+}
+
+#submit {
+    margin: 1em;
+}
+
+
+
